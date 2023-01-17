@@ -1,0 +1,9 @@
+Un affichage qui va reprendre de données concernant les résultats des matchs de Coupe du monde 2022 à partir d'un flux RSS
+
+L'affichage sera composé de 3 blocs 
+- Bloc : Matchs passés : France 2 - 1 Danemark ....
+- Bloc : Match en cours : Ce bloc est dynamique
+- Bloc : Match à venir
+
+Pour les 3 trois blocs : 
+Il y a un chmaps de recherche => Pays

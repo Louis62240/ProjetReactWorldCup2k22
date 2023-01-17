@@ -1,0 +1,20 @@
+table {
+    border-collapse: collapse; /* Supprime les bordures doubles */
+    width: 100%; /* Remplit toute la largeur de l'écran */
+  }
+  
+  th {
+    background-color: #ddd; /* Couleur de fond grise pour les en-têtes */
+    text-align: left; /* Aligne le texte à gauche */
+    padding: 8px; /* Ajoute de l'espace autour du texte */
+  }
+  td {
+    border: 1px solid #ddd; /* Ajoute une bordure grise autour des cellules */
+    text-align: left; /* Aligne le texte à gauche */
+    padding: 8px; /* Ajoute de l'espace autour du texte */
+  }
+  .centerDiv{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
